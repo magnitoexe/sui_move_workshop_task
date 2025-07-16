@@ -1,4 +1,4 @@
-module 0x0::;
+module 0x0::magnito;
 use std::string::String;
 
 public struct Student has key {
